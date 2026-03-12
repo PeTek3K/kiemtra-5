@@ -1,6 +1,6 @@
 .footer-section {
-    background-color: #283618;
-    color: #fefae0;
+    background-color: #ffffff;
+    color: #1a1a1a;
     padding: 50px 0 20px;
     margin-top: 50px;
 }
@@ -13,7 +13,7 @@
 }
 .footer-info, .footer-links, .footer-contact {
     flex: 1;
-    margin: 10px 20px;
+    margin: 29px 70px;
     min-width: 250px;
 }
 .footer-links ul {
@@ -21,7 +21,7 @@
     padding: 0;
 }
 .footer-links ul li {
-    margin-bottom: 10px;
+    margin-bottom: 88px;
 }
 .footer-links ul li a {
     color: #dda15e;
@@ -34,7 +34,7 @@
     padding-top: 20px;
 }
 :root {
-    --primary-color: #606c38;
+    --primary-color: #606c36;
     --secondary-color: #283618;
     --accent-color: #dda15e;
     --light-color: #fefae0;
@@ -45,7 +45,7 @@ body {
     background-color: var(--light-color);
 }
 .hero-section {
-    height: 60vh;
+    height: 99vh;
     display: flex;
     align-items: center;
     justify-content: center;
